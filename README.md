@@ -1,6 +1,4 @@
-# Projetos
-
-Aqui estão listados todos os projetos desenvolvidos por `@filipedominguess`.
+# Projetos Desenvolvidos
 
 ## Projeto 10 - Projeto de Protótipo de Modelo de Aprendizado de Máquina para Prever a Quantidade de Ouro Extraído do Minério
 
