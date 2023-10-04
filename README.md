@@ -1,10 +1,16 @@
 # Projetos Desenvolvidos
 
+## Projeto 12 - Rusty Bargain - Previsão de Preços de Carros Usados
+
+Bibliotecas: pandas, matplotlib, numPy, scikit-learn, catboost, lightgbm, categoryencoders
+
+[![Projeto 12](https://img.shields.io/badge/GitHub-Ver%20Repositório-blue?logo=github)](https://github.com/filipedominguess/Projeto-12)
+
 ## Projeto 11 - Proteja Seu Amanhã - Aprendizado de Máquina para Companhia de Seguros
 
 Bibliotecas: numpy, pandas, seaborn, sklearn.linear_model, sklearn.metrics, sklearn.neighbors, sklearn.preprocessing
 
-[![Projeto 10](https://img.shields.io/badge/GitHub-Ver%20Repositório-blue?logo=github)](https://github.com/filipedominguess/Projeto-11)
+[![Projeto 11](https://img.shields.io/badge/GitHub-Ver%20Repositório-blue?logo=github)](https://github.com/filipedominguess/Projeto-11)
 
 ## Projeto 10 - Projeto de Protótipo de Modelo de Aprendizado de Máquina para Prever a Quantidade de Ouro Extraído do Minério
 
